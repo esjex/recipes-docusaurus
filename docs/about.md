@@ -1,6 +1,6 @@
 # About this site
 
-Hi, I'm Siobhan. I'm a technical writer, technical editor, and content strategist.  
+Hi, I'm Siobhan. I'm a technical writer, technical editor, and content strategist. 
 
 I'm using this content to familiarise myself with creating documentation via static site generators, as part of building out my tech stack. 
 
